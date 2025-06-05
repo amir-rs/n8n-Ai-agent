@@ -2,7 +2,7 @@
 This repository contains an automation workflow using n8n and the Groq API to analyze cryptocurrency market data and send insights via a Telegram bot.
 Table of Contents
 
-Project Overview https://github.com/amir-rs/n8n-Ai-agent/blob/2ecb86b93869dc9cb65bd699770310d6a209c4f3/Screenshot%202025-06-05%20111157.png
+Project Overview ![n8n Workflow]https://github.com/amir-rs/n8n-Ai-agent/blob/2ecb86b93869dc9cb65bd699770310d6a209c4f3/Screenshot%202025-06-05%20111157.png
 Prerequisites
 Setup Instructions
 Workflow Description
