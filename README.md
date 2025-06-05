@@ -10,11 +10,14 @@ Telegram Bot Integration
 Screenshots
 Contributing
 License
+### Workflow Screenshot
+![Workflow Screenshot](https://github.com/amir-rs/n8n-Ai-agent/blob/main/Screenshot%202025-06-05%20111157.png)
 
 Project Overview
 This project leverages n8n, an open-source workflow automation tool, to fetch real-time cryptocurrency market data (e.g., prices, trends) using a public API (such as CoinGecko or CoinMarketCap). The data is processed and analyzed using the Groq API for generating insights, such as price predictions or market sentiment. The results are then sent to a Telegram bot for user notifications.
 Prerequisites
-
+### Telegram Bot Test Screenshot
+![Telegram Bot Test Screenshot](https://github.com/amir-rs/n8n-Ai-agent/blob/main/Screenshot%202025-06-05%20111157.png)
 n8n: Installed locally or hosted on a server (self-hosted or cloud).
 Groq API Key: Obtain from xAI API.
 Telegram Bot Token: Create a bot via BotFather on Telegram.
